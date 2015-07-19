@@ -30,7 +30,7 @@ under Docker.
   further need to use a wildcard certificate.
 
 For reference,
-[nginx-example.conf](https://github.com/sandstorm-io/sandstorm/tree/nginx-example.conf)
+[nginx-example.conf](https://github.com/sandstorm-io/sandstorm/blob/master/nginx-example.conf)
 contains the http server part of nginx config used by Sandstorm Alpha.
 ## Installing from Source
 
